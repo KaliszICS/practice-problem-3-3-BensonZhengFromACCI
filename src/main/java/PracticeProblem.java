@@ -1,3 +1,9 @@
+	/**
+		* File: Lesson 3.3 - else if
+		* Author: Benson
+		* Date Created: March 29, 2026
+		* Date Last Modified: March 29, 2026
+		*/
 public class PracticeProblem {
 
 	public static void main(String args[]) {
